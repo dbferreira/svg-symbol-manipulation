@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.23 247.05">
+    <defs>
+        <style>
+            .cls-1 {
+                fill:#231f20;
+            }
+            
+            .cls-2 {
+                fill:#fff;
+            }
+
+            .cls-2--true {
+                fill:#231f20;
+            }
+
+            .cls-2--false {
+                fill:#fff;
+            }
+        </style>
+    </defs>
+    <title>
+        SCADA
+    </title>
+    <g id="Full">
+        <rect width="224.88" height="5.73" x="11.3" y="120.66" class="cls-1"/>
+        <rect width="229.75" height="5.73" x="252.19" y="120.66" class="cls-1"/>
+        <polygon points="344.29 54.1 244.13 123.24 143.97 54.1 143.97 192.94 244.13 123.81 344.29 192.94 344.29 54.1" class="cls-2 sBoolean"/>
+        <path d="M346.29,196.75,244.13,126.24,142,196.75V50.29l102.16,70.52L346.29,50.29ZM146,57.91V189.13L241,123.52Zm101.26,65.61,95.06,65.61V57.91Z" class="cls-1"/>
+    </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 493.23 588.89">
+    <defs>
+        <style>
+            .cls-1, 
+            .cls-3 {
+                fill:none;
+            }
+            
+            .cls-2, 
+            .cls-6, 
+            .cls-8 {
+                fill:#fff;
+            } 
+            
+            .cls-3 {
+                stroke:#898989;
+                stroke-miterlimit:10;
+                stroke-width:4px;
+            }
+
+            .cls-4 {
+                fill:#007bc6;
+                opacity:0.6;
+            }
+            
+            .cls-4--high {
+                fill:#1ca547;
+                opacity:0.6;
+            }
+
+            .cls-4--low {
+                fill:#e8194d;                
+                opacity:0.6;                
+            }
+
+            .cls-5 {
+                fill:#deedf0;
+            }
+
+            .cls-5--high {
+                fill:#a4eab8;
+            }
+            
+            .cls-5--low {
+                fill:#f9c5d2;
+            }
+            
+            .cls-6 {
+                opacity:0.6;
+            }
+            
+            .cls-7 { 
+                clip-path:url(#clip-path);
+            }
+            
+            .cls-8 {
+                opacity:0.3;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <polygon points="174.89 677.46 120.39 677.46 120.39 37.71 174.89 24.05 174.89 677.46" class="cls-1"/>
+        </clipPath>
+        <clipPath id="tank-fill-clip" class="sClipPath" >
+            <path d="M76 80V509C76 543 153 570 247 570S417 543 417 509H417V80Z" />
+            <ellipse cx="246.79" cy="79.85" rx="170.68" ry="61.44"/>
+            <path d="M246 122C176 122 103 105 103 74A6 6 0 1 1 115 74C115 82 129 92 153 98 178 106 212 110 246 110 278 110 312 105 337 97 365 88 375 78 375 71A6 6 0 0 1 387 71C387 102 314 122 246 122Z"/>
+        </clipPath>
+        <clipPath id="tank-fill-clip-tank">
+            <path d="M76 80V509C76 543 153 570 247 570S417 543 417 509H417V80Z" />
+            <ellipse cx="246.79" cy="79.85" rx="170.68" ry="61.44"/>
+            <path d="M246 122C176 122 103 105 103 74A6 6 0 1 1 115 74C115 82 129 92 153 98 178 106 212 110 246 110 278 110 312 105 337 97 365 88 375 78 375 71A6 6 0 0 1 387 71C387 102 314 122 246 122Z"/>
+        </clipPath>
+    </defs>
+    <title>
+        Tank
+    </title>
+    <g id="Full" class="sSymbol">
+        <path d="M416 73C407 42 335 18 246 18S86 42 77 73H76V509C76 543 152 570 246 570S417 543 417 509V73Z" class="cls-2"/>
+        <ellipse cx="246.79" cy="509.04" class="cls-3" rx="170.68" ry="61.44"/>
+        <g translate-offset="-160" class="sTranslateY" clip-path="url(#tank-fill-clip)">
+            <rect  width="100%" height="100%" class="cls-4 sColor" clip-path="url(#tank-fill-clip-tank)" />
+            <ellipse cx="246.79" cy="79.85" class="cls-5 sColor" rx="170.68" ry="61.44"/>
+            <path d="M246 122C176 122 103 105 103 74A6 6 0 1 1 115 74C115 82 129 92 153 98 178 106 212 110 246 110 278 110 312 105 337 97 365 88 375 78 375 71A6 6 0 0 1 387 71C387 102 314 122 246 122Z" class="cls-6"/>
+        </g>
+        
+        <g class="cls-7">
+            <path d="M417.48,79.85c0-33.93-76.42-61.44-170.69-61.44S76.11,45.92,76.11,79.85V509c0,33.93,76.42,61.44,170.68,61.44S417.48,543,417.48,509h0V79.85Z" class="cls-8"/>
+        </g>
+        <ellipse cx="246.79" cy="79.85" class="cls-3" rx="170.68" ry="61.44"/>
+        <path d="M417.48,509c0,33.93-76.42,61.44-170.69,61.44S76.11,543,76.11,509" class="cls-3"/>
+        <line x1="76.11" x2="76.11" y1="79.85" y2="509.04" class="cls-3"/>
+        <line x1="417.48" x2="417.48" y1="79.85" y2="509.04" class="cls-3"/>
+    </g>
+</svg>

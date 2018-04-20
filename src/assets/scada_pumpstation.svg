@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.23 247.05">
+    <defs>
+        <style>
+            .cls-ps-1,
+            .cls-ps-3 {
+                fill:#231f20;
+            }
+            
+            .cls-ps-1 { 
+                stroke:#231f20;
+                stroke-miterlimit:10;
+            }
+            
+            .cls-ps-2 {
+                fill:#fff;
+            }
+
+            .cls-ps-4 {
+                fill:#fff;
+            }
+
+            .cls-ps-4--true {
+                fill:#231f20;
+            }
+
+            .cls-ps-4--false {
+                fill:#fff;
+            }
+        </style>
+    </defs>
+    <title>
+        SCADA
+    </title>
+    <g id="Full">
+        <rect width="270.04" height="93.58" x="111.75" y="60.41" class="cls-ps-1"/>
+        <path d="M474,106.46a38.21,38.21,0,0,0-38.19-37.58H58.19A38.21,38.21,0,0,0,20,106.46h0v.65h0V223.66H85.91V145.34H408.09v78.32h66V107.11h0v-.65Z" class="cls-ps-2"/>
+        <path d="M475.54,225.16h-69V146.84H87.41v78.32H18.46V105h.08A39.91,39.91,0,0,1,58.19,67.38H435.81A39.9,39.9,0,0,1,475.45,105h.09Zm-66-3h63V107.32l0-.84a36.87,36.87,0,0,0-36.69-36.1H58.19a36.88,36.88,0,0,0-36.7,36.1l0,1.48v114.2h63V143.84H409.59Z" class="cls-ps-3"/>
+        <rect width="201.86" height="198.3" x="146.51" y="27.88" class="cls-ps-4 sBoolean"/>
+        <path d="M349.87,227.68H145V26.38H349.87Zm-201.86-3H346.87V29.38H148Z" class="cls-ps-3"/>
+    </g>
+</svg>
