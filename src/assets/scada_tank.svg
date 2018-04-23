@@ -78,8 +78,8 @@
         <path d="M416 73C407 42 335 18 246 18S86 42 77 73H76V509C76 543 152 570 246 570S417 543 417 509V73Z" class="cls-2"/>
         <ellipse cx="246.79" cy="509.04" class="cls-3" rx="170.68" ry="61.44"/>
         <g translate-offset="-160" class="sTranslateY" clip-path="url(#tank-fill-clip)">
-            <rect  width="100%" height="100%" class="cls-4 sColor" clip-path="url(#tank-fill-clip-tank)" />
-            <ellipse cx="246.79" cy="79.85" class="cls-5 sColor" rx="170.68" ry="61.44"/>
+            <rect  width="100%" height="100%" class="cls-4 sStyle" clip-path="url(#tank-fill-clip-tank)" />
+            <ellipse cx="246.79" cy="79.85" class="cls-5 sStyle" rx="170.68" ry="61.44"/>
             <path d="M246 122C176 122 103 105 103 74A6 6 0 1 1 115 74C115 82 129 92 153 98 178 106 212 110 246 110 278 110 312 105 337 97 365 88 375 78 375 71A6 6 0 0 1 387 71C387 102 314 122 246 122Z" class="cls-6"/>
         </g>
         

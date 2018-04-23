@@ -74,7 +74,7 @@ export default {
     computed: {
         symbolClass() { return this.$refs.symbol.getElementsByClassName('sSymbol')[0]; },
         clipPathClass() { return this.$refs.symbol.getElementsByClassName('sClipPath')[0]; },
-        colorClasses() { return this.$refs.symbol.getElementsByClassName('sColor'); },
+        colorClasses() { return this.$refs.symbol.getElementsByClassName('sStyle'); },
         scaleYClasses() { return this.$refs.symbol.getElementsByClassName('sScaleY'); },
         translateYClasses() { return this.$refs.symbol.getElementsByClassName('sTranslateY'); },
         rotateClasses() { return this.$refs.symbol.getElementsByClassName('sRotate'); },

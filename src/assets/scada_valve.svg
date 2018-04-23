@@ -5,17 +5,14 @@
                 fill:#231f20;
             }
             
-            .cls-2 {
+            .cls-2,
+            .cls-2--false {
                 fill:#fff;
             }
 
             .cls-2--true {
                 fill:#231f20;
-            }
-
-            .cls-2--false {
-                fill:#fff;
-            }
+            }            
         </style>
     </defs>
     <title>

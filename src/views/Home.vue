@@ -8,6 +8,9 @@
       <symbol-boolean :symbol="symbols.valve"
                       @clean="cleanModifierClasses"
                       @append="appendClass" />
+      <symbol-boolean :symbol="symbols.switch"
+                      @clean="cleanModifierClasses"
+                      @append="appendClass" />
       <symbol-value :symbol="symbols.temp"
                     @clean="cleanModifierClasses"
                     @append="appendClass" />
@@ -46,7 +49,8 @@ export default {
         dam: undefined,
         tower: undefined,
         temp: undefined,
-        gauge: undefined
+        gauge: undefined,
+        switch: undefined
       }
     }
   },
@@ -73,6 +77,7 @@ export default {
     this.symbols.tower = require('./../assets/scada_tower.svg');
     this.symbols.temp = require('./../assets/scada_temp.svg');
     this.symbols.gauge = require('./../assets/scada_gauge.svg');
+    this.symbols.switch = require('./../assets/scada_switch.svg');
   }
 
 }
